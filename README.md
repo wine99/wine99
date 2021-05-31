@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - I'm planning to study in Sweden/Denmark
 - I'm interested in Programming Languages
 - I'm looking to meet more developers
-- Life is amazing, I learn everything!
 
 **Fun facts**:
 - I Love basketball but I don't watch NBA
