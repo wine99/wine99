@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 **Fun facts**:
 - I Love basketball but I don't watch NBA
 - I love music but I sucks at singing
+- I want to learn how to write
 - I would try any new sports
-- I do not enjoy reading very much
-- I enjoy sitting around doing nothing
+- I enjoy strolling or sitting around doing nothing
 - I find languages are interesting
 
 **Devices**:
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 - Google Pixel Slate, 4GB 32GB, Celeron 3965Y
 - NIZ Plum atom66 Electrostatic Capacitive Keyboard
 
+[Home page](https://wine99.github.io/)
+[Tech blog](https://segmentfault.com/u/wine99)
