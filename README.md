@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 - Google Pixel Slate, 4GB 32GB, Celeron 3965Y
 - NIZ Plum atom66 Electrostatic Capacitive Keyboard
 
-[Home page](https://wine99.github.io/)
-[Tech blog](https://segmentfault.com/u/wine99)
