@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="wine99's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wine99&count_private=true&show_icons=true">
 
-- I’m currently a junior at HFUT
+- I'm currently a junior at HFUT
 - I'm planning to study in Sweden/Denmark
 - I'm interested in Programming Languages
 - I'm looking to meet more developers
