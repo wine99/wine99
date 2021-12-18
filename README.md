@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 <img align="right" alt="wine99's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wine99&count_private=true&show_icons=true">
 
-- I'm currently a junior at HFUT
+- I'm currently a senior at HFUT
 - I'm planning to study in Sweden/Denmark
 - I'm interested in Programming Languages
 - I'm looking to meet more developers
 
 **Fun facts**:
 - I Love basketball but I don't watch NBA
-- I love music but I sucks at singing
-- I want to learn how to write
+- I love music but I know nothing about singing or Music
 - I would try any new sports
 - I enjoy strolling or sitting around doing nothing
 - I find languages are interesting
@@ -33,6 +32,7 @@ Here are some ideas to get you started:
 **Devices**:
 - Lenovo LEGION Y7000 2018 Edition, 8GB RAM GTX1050
 - Xiaomi Mi 8 SE, 8GB 64GB Golden, with PixelExperience OS Android 11
-- Google Pixel Slate, 4GB 32GB, Celeron 3965Y
+- iPhone 12 mini, Black, 128G
+- Google Pixel Slate, M3, 64GB
 - NIZ Plum atom66 Electrostatic Capacitive Keyboard
 
