@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - I'm currently a senior at HFUT
 - I'm going to study at Aarhus University
 - I'm interested in Programming Languages
-- I'm looking to meet more developers
 
 **Fun facts**:
-- I Love basketball but I don't watch NBA
+- I love basketball but I don't watch NBA
 - I love music but I know nothing about singing or Music
 - I would try any new sports
 - I enjoy strolling or sitting around doing nothing
